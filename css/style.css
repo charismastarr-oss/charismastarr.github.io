@@ -252,3 +252,10 @@ input:focus,select:focus,textarea:focus{outline:3px solid var(--fuchsia);outline
 
 .speaking-topics{margin:14px 0 1.2em}
 .prose ul+p{margin-top:1.2em}
+
+/* in-person coaching */
+.inperson{align-items:center}
+.inperson p+p{margin-top:1em}
+.space-photo{width:100%;height:auto;border-radius:16px;display:block}
+
+.inperson h2{margin-bottom:18px}
