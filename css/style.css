@@ -259,3 +259,9 @@ input:focus,select:focus,textarea:focus{outline:3px solid var(--fuchsia);outline
 .space-photo{width:100%;height:auto;border-radius:16px;display:block}
 
 .inperson h2{margin-bottom:18px}
+.book-box .btn{margin:0 10px 10px 0}
+.inperson>*{min-width:0}
+
+.venmo{display:flex;align-items:center;gap:18px;margin-top:14px}
+.venmo img{width:140px;height:140px;border-radius:12px;border:1px solid rgba(27,58,39,.18);flex:none}
+.venmo p{margin:0}
